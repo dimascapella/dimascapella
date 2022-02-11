@@ -21,20 +21,22 @@ shortBio('Dimas Eka Adinandra', 'PT Okejek Kreasi Indonesia', 22, 'Backend Devel
 hobbies(data)
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table border="0" align="center">
-<tr border="0">
-<td align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dimascapella&theme=tokyonight&show_icons=true&count_private=true" />
-</td>
+ <table border="0" align="center">
+  <tr>
+    <th>
+      <img align="center"  src="https://github-readme-stats.vercel.app/api?username=dimascapella&theme=tokyonight&show_icons=true&count_private=true" />
+    </th>
+    <th>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dimascapella&theme=tokyonight&hide_border=true" />
+    </th>
+  </tr>
+  <tr>
+    <td colspan="2">
+          <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimascapella&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
+    </td>
+  </tr>
+</table> 
 
-<td align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dimascapella&theme=tokyonight&hide_border=true" />
-</td>
-  <td>
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimascapella&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
