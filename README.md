@@ -25,16 +25,16 @@ hobbies(data)
 
  <table border="0" align="center">
   <tr>
-    <th>
+    <td>
       <img align="center"  src="https://github-readme-stats.vercel.app/api?username=dimascapella&theme=tokyonight&show_icons=true&count_private=true" />
-    </th>
-    <th>
+    </td>
+    <td>
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dimascapella&theme=tokyonight&hide_border=true" />
-    </th>
+    </td>
   </tr>
   <tr>
-    <td colspan="2">
-          <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimascapella&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
+    <td colspan="2" align="center">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimascapella&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
     </td>
   </tr>
 </table> 
