@@ -5,11 +5,36 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 &nbsp;
 
-[![Dimas Capella's github stats](https://github-readme-stats.vercel.app/api?username=dimascapella&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+```py
+//Short Story About Me
+def hobbies(data):
+    print("My Hobbies is : ")
+    for i in data:
+        print(i, end="\n")
+        
+def shortBio(name, work, age, job):
+    print("My Name is {0} and im {1} y'old, i'm a {2} at {3}.".format(name, age, job, work))
+        
+data = ['Coding', 'Baskelball', 'Gaming']
+shortBio('Dimas Eka Adinandra', 'PT Okejek Kreasi Indonesia', 22, 'Backend Developer')
+hobbies(data)
+```
 
-[<img align="left" alt="codeSTACKr.com" style="background-color: #fff" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" style="background-color: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-<!-- This section you create this variables that are used above -->
-[website]: https://dimascapella.github.io/personal-website/
-[instagram]: https://www.instagram.com/dimascapella/
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dimascapella&theme=tokyonight&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dimascapella&theme=tokyonight&hide_border=true" />
+</td>
+
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimascapella&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
