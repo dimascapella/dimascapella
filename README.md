@@ -26,7 +26,7 @@ hobbies(data)
  <table border="0" align="center">
   <tr>
     <td>
-      <img align="center"  src="https://github-readme-stats.vercel.app/api?username=dimascapella&theme=tokyonight&show_icons=true&count_private=true" />
+      <img align="center"  src="https://github-readme-stats.vercel.app/api?username=dimascapella&theme=Gradient&show_icons=true&count_private=true" />
     </td>
     <td>
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dimascapella&theme=tokyonight&hide_border=true" />
