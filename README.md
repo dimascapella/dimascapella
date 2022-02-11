@@ -39,4 +39,6 @@ hobbies(data)
   </tr>
 </table> 
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
