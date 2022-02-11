@@ -25,7 +25,13 @@ hobbies(data)
 
 # Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=ff0000)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=ff0000)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff0000)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=golang&logoColor=white&color=ff0000)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=ff0000)
+![](https://img.shields.io/badge/Code-VUEJS-informational?style=flat&logo=vue&logoColor=white&color=ff0000)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ff0000)
+![](https://img.shields.io/badge/Tools-VSCODE-informational?style=flat&logo=vscode&logoColor=white&color=ff0000)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
