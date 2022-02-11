@@ -1,13 +1,8 @@
-### Hi, I'm Dimas Eka Adinandra
+<div align='center'>
+  <img src=https://i.pinimg.com/originals/68/a5/80/68a5805ee62de226ae2fa7dd16b52353.gif>
+</div>
 
-## Your short description
-- 🔭 I’m currently working as - Freelance
-- 🌱 I’m currently learning - VueJS, NodeJS, Django
-- 👯 I’m looking to collaborate with - Backend Dev
-- 🥅 2021 Goal - Make a Beautiful and Powerful Website
-
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
+&nbsp;
 [![Dimas Capella's github stats](https://github-readme-stats.vercel.app/api?username=dimascapella&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 [<img align="left" alt="codeSTACKr.com" style="background-color: #fff" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
