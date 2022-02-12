@@ -45,7 +45,7 @@ hobbies(data)
   </tr>
   <tr>
     <td colspan="2" align="center">
-          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimascapella&theme=Gradient&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dimascapella&theme=Gradient&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
     </td>
   </tr>
 </table> 
